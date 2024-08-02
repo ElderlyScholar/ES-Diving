@@ -1,0 +1,3 @@
+waterproof_metaldetector                      = { name = 'waterproof_metaldetector', label = 'Waterproof Metaldetector', weight = 1000, type = 'item', image = 'waterproof_metaldetector.png', unique = false, useable = true, shouldClose = true, description = '' },
+leather_case                      = { name = 'leather_case', label = 'Leather Case', weight = 2500, type = 'item', image = 'leather_case.png', unique = false, useable = true, shouldClose = true, description = '' },
+steel_case                      = { name = 'steel_case', label = 'Steel Case', weight = 5500, type = 'item', image = 'steel_case.png', unique = false, useable = false, shouldClose = true, description = '' },
